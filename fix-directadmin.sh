@@ -26,6 +26,7 @@ if [ -s /usr/local/directadmin/conf/directadmin.conf ]; then
 	echo "================================================"
 	echo "Downgrade DirectAdmin 1.62.4 thanh cong";
 	echo "TUYET DOI khong nen cap len DA 1.62.5"
+	echo "Licsense su dung den nam 2038"
 	echo "================================================"
 fi
 
